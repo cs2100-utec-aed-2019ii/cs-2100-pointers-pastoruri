@@ -30,4 +30,5 @@
 //16. Se imprime "19"
 //17. Ese codigo no va a imprimir nada, puesto que el puntero ptr nunca se inicializó y el valor asignado fue destinado a un espacio de memoria 'fantasma'
 //18. Se imprime "18"
-//19.
+//19. Agarra un string y desde la ultima posición lo recorre hacia atras mientras hayan espacios, cuando se terminan los espacios, agrega un '\0' al final del string
+//20. Es un codigo que recorre un string y reemplaza las comas ',' por espacios.
